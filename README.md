@@ -8,7 +8,7 @@ This project analyzes a pizza sales dataset using SQL to uncover key business in
 
 ## Tools & Technologies
 
-* SQL (MySQL / PostgreSQL)
+* SQL (MySQL)
 * GitHub
 
 ---
